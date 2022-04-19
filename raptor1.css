@@ -1,0 +1,345 @@
+@media only screen and (min-width: 1000px)
+{
+    .servicedesc , .head-icon
+    {
+        text-align: center;
+    }
+}
+@media only screen and (max-width: 1000px)
+{
+    .heading 
+    {
+        margin-left: 0px;
+    }
+    .para
+    {
+        width:100%;
+    }
+    .set_img
+    {
+        display:block;
+    }
+    .image
+    {
+        height: auto;
+    }
+    .nav-bar
+{
+     background-color:  rgb(51, 45, 45);
+}
+    .ul-link
+    {
+        position: absolute;
+        top: 60px;
+        left: 10px;
+        display: flex;
+       flex-direction: column;
+       background-color: white;
+         width: 100%;
+        overflow: hidden;
+        transition: 0.10s;
+    }
+    .nav-list
+    {
+        display: block;
+        margin-left: 50px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .decorate
+    {
+        color: black;
+    }
+    .toggle 
+    {
+        display: block;
+        cursor: pointer;
+        background: rgb(51, 45, 45);
+    }
+}
+@media  only screen and (max-width:450px) 
+{
+    .input-border
+    {
+       height: 140px;
+    }
+    .input-text 
+    {
+        width:70px;
+        height:70px;
+    }
+  .boxes
+  {
+      padding-bottom:30px;
+  } 
+  .nav-bar 
+  {
+      padding: 0px;
+  }
+  .col-section1
+  {
+      width:100%;
+  }
+  .six-head
+  {
+      padding: 0 15px;
+  }
+  p> .para-custom   
+  {
+      margin-top:40px;
+  }
+  .para-say 
+  {
+      width: 100%;
+ }
+  .price-btn
+  {
+      width: 100%;
+  }
+
+  .icon {
+      margin-bottom: 30px;
+  }
+  .main-icon
+   {
+      padding-top: 100px;
+  }  
+  .icon1 
+  {
+      padding-bottom: 45px;
+  }
+  .fifth-sec
+  {
+      height:990px;
+  }
+  .work-link .work-links
+    {
+        width: 100%;
+    } 
+    .servicedesc 
+    {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0px;
+    }
+}
+@media only screen and (max-width: 768px)
+{
+    .img-circle 
+    {
+        margin-top: -135px;
+    }
+    .img-circle1
+    {
+        margin-top: -135px;
+    }
+  .heading , .para
+{
+    display: block;
+    text-align:center;
+}
+.vps-img 
+{
+    width: 100%;
+    margin-left: 0px;
+}
+.work-links , .work-link
+{
+    width: 90%;
+    margin: 5px 5px;
+    text-align: center;
+}
+.img-para 
+{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-left: 0px;
+}
+
+.links
+{
+   flex-direction: column;
+   align-items: center;
+   width: 100%;
+}
+   .input-border
+    {
+        display: flex;
+        flex-direction: column;
+        width: 257px
+    }
+    .input-text
+    {
+    border: none;        
+    background: #fff !important;
+    color: #3a4348 !important;
+    width:250px;
+    }
+     .domain-btn
+     {
+         width:250px;
+     }
+    }
+    @media only screen and (max-width:192px) 
+    {
+     .para-center
+     {
+        text-align: center;
+         flex-direction: column;
+     }
+    }
+    @media  only screen and (max-width:372px)
+    {
+    .second-content
+    {
+        width: 100%;
+    }
+    }
+    @media screen and (max-width:700px)
+    {
+        .blog-sec 
+                {
+                    display: flex;
+                    flex-direction: column;
+                }
+                .blog-arrange
+                {
+                    padding: 20px;
+                }
+                .heading-grid{
+                    padding-bottom: 20px;
+                }
+        .main-icon 
+           { 
+            display: block;
+           }
+           .custom-box
+                {
+                    margin-top: 80px;
+                    text-align: left;
+                }
+                .six 
+                {
+                    display: block;
+                    width: 100%;
+                }
+                .arrange
+                {
+                    display: block;
+                    width: 100%;
+                    text-align: center;
+                }
+                
+                .box1-cust >p 
+            {
+                width:50%;
+            }
+   
+        .main-icon , .icon1, .servicedesc 
+           { 
+            text-align: center;
+           }
+         .icon{
+            text-align: center;
+
+         }
+        
+}
+    
+        @media only screen and (max-width:750px)
+        {
+            .col-section1 
+            {
+                align-content: center;
+                text-align: center;
+                width: 50%;
+                padding-bottom: 30px;
+                margin: 30px auto;
+                padding: 0px 70px;
+            }
+            .price-head{
+                margin-top: 0px;
+            }
+            .arrange{
+                display: block;
+            }
+            .custom-box{
+                align-content: center;
+                width: 70%;
+                margin: 50px auto;
+            }
+            .row-mb-5
+              {
+                display: block;
+                padding: 0px;
+                padding-left: 20px;
+                padding-top: 40px;
+            }
+            .row-section
+            {
+                display: block;
+                width:100%;
+            }
+            .box-arrange
+               {
+                   display: block;
+               }
+        }
+        @media only screen and (max-width:745px)
+            {
+                .row-section
+                {
+                    display: block;
+                    text-align: center;
+                }
+            }
+        @media only screen and (max-width:450px)
+        {
+               .img-circle 
+               {
+                   margin-top: -100px;
+               }
+               .img-circle1
+               {
+                   margin-top: -100px;
+               }
+              
+            .touch-button
+            {
+                padding:10px;
+                margin-bottom: 30px;
+            }
+            .footer-social-list
+            {
+                display: flex;
+                margin-left: -10px;
+            }
+            .gray 
+            {
+                width: 100%;
+            }
+            .gray1
+            {
+                width: 100%;
+            }
+            .paraa
+            {
+                padding: 0px 20px;
+                text-align: center;
+            }
+            .copy-ryt > p
+            {
+                padding: 20px;
+                padding-bottom: 60px;
+            }
+            .footer-widget 
+            {
+                width: 100%;
+            }
+            .links
+            {
+                padding: 0px;
+            }
+        }
+     
